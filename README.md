@@ -7,7 +7,7 @@
 # Steps
 ### [Step 1](./step1.md)
 ### [Step 2](./step2.md)
-3. Third, once you figured out what you want to name the link we have to know how to format it, to do so you will enclose what you are naming the link with brackets [example]
+### [Step 3](./step3.md)
 4. Once you have the name you want the link to be formatted correctly you must add the link directly after the brackets with parenthesis around it, an EX
 [Soccer Ball](link, then closing parenthesis
 6. Lastly you will come up with what the tutorial has been tring to acheive, a clickable link. EX:
