@@ -5,7 +5,7 @@
 # The target audience is novice github users/persons
 
 ### Steps
-1. First you must find a link or website that interests you
+1. First you must find a link or website that interests you [Step 1](./step1.md)
 2. Second, you must give the link a name. EX: if the link takes you to pictures of soccer-balls then name the link soccer ball.
 3. Third, once you figured out what you want to name the link we have to know how to format it, to do so you will enclose what you are naming the link with brackets [example]
 4. Once you have the name you want the link to be formatted correctly you must add the link directly after the brackets with parenthesis around it, an EX
