@@ -1,35 +1,16 @@
-# IT1600-MARKDOWN
+# IT1600-Final Project
+# Clickable github link tutorial
+# By: Ty Weatherly
+# Creating clickable link that takes you from file to internet or website tutorial.
+# The target audience is novice github users/persons
 
-### Contents
-1. [Tyschoice1](#Tyschoice1)
-2. [Tyschoice2](#Tyschoice2)
-3. [Tyschoice3](#Tyschoice3)
-4. [Tyschoice4](#Tyschoice4)
-5. [Tyschoice5](#Tyschoice5)
+### Steps
+1. First you must find a link or website that interests you
+2. Second, you must give the link a name. EX: if the link takes you to pictures of soccer-balls then name the link soccer ball.
+3. Third, once you figured out what you want to name the link we have to know how to format it, to do so you will enclose what you are naming the link with brackets [example]
+4. Once you have the name you want the link to be formatted correctly you must add the link directly after the brackets with parenthesis around it, an EX
+[Soccer Ball](link, then closing parenthesis
+6. Lastly you will come up with what the tutorial has been tring to acheive, a clickable link. EX:
+[Soccer Ball](https://www.walmart.com/ip/Soccer-Ball-Edible-Icing-Image-for-3-inch-Round-for-CupCake-Cookie/934431703?wmlspartner=wlpa&selectedSellerId=8888&&adid=22222222227000000000&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-51320962143&wl5=9023533&wl6=&wl7=&wl8=&wl9=pla&wl10=115794155&wl11=online&wl12=934431703&veh=sem&gclid=CjwKCAiAksyNBhAPEiwAlDBeLM8w1UoqqTmfEbaKE8CY_LNJ0k0XXL8FV3tZkRyXc0rJTOLp_CZr-RoC5goQAvD_BwE&gclsrc=aw.ds)
 
- **About me:** 
-  I am a Junior at Mizzou studying Information Technology.  My main focus is fields in Cyber-Security because I like the idea that I would be helping people keep their stuff safe.  I have 2 pets: Silas and Sadie. Each of "Ty's choices" will contain more things liked by him.
-
-**Go to [Google!](https://google.com)**
-
--[x] Favorite color: Orange
-
--[x] Favorite sport: Soccer
-
--[x] Favorite food: IceCream
-
--[] Favorite season: Summer
-## Ty's choice1
-[Soccer Ball](https://www.google.com/search?q=image+of+soccer+ball&rlz=1C5CHFA_enUS865US865&sxsrf=ALeKk02igJ4FZNI-Yqr-QWh0URl-XrDJqQ:1620396431799&tbm=isch&source=iu&ictx=1&fir=4OeY7PTxeO_1FM%252CjhLKzSfP4OCC8M%252C_&vet=1&usg=AI4_-kSVnXRvVyxS4Gy5x1Lcp5c4wtpm8Q&sa=X&ved=2ahUKEwijudmN37fwAhUWCM0KHR7LDtgQ9QF6BAgSEAE&biw=757&bih=616#imgrc=4OeY7PTxeO_1FM)
-
-## Ty's choice2
-[Sweets](https://www.google.com/search?q=sweet+food&rlz=1C5CHFA_enUS865US865&sxsrf=AOaemvIDPRbEI035qoFbFr-YqV_myubVgQ:1637353629364&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiXlczLoaX0AhWLFIgKHcUVBzUQ_AUoAXoECAEQAw&biw=1440&bih=789&dpr=2)
-
-## Ty's choice3
-[My Puppies <3](https://www.google.com/search?q=boston+terrier&rlz=1C5CHFA_enUS865US865&sxsrf=AOaemvLu8l_yFbsBgRS7Hm1gJpQkRyDCGw:1637353502096&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwibqfSOoaX0AhWSc3AKHfv3BFUQ_AUoAXoECAEQAw&biw=1440&bih=789&dpr=2#imgrc=DoILM3pI6EuWsM)
-
-## Ty's choice4
-[Favorite Candles](https://woodwick.yankeecandle.com/)
-
-## Ty's choice5
-[Cyber-Security](https://www.google.com/search?q=cyber+security&rlz=1C5CHFA_enUS865US865&sxsrf=AOaemvLOYXbZPXMEBDx6oYC_dBWqWsr85w:1637353692194&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjb9MbpoaX0AhUOU_UHHV5vAz4Q_AUoAnoECAEQBA&biw=1440&bih=789&dpr=2#imgrc=w3USp4Je3HWO-M)
+# Thanks for learning!!!
